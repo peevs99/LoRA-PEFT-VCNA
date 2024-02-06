@@ -2,7 +2,7 @@
  Leveraging LoRA-PEFT for Efficient Training of VCNAs with Specialized Knowledge
 
 
-# 🚨 Currently building a usable dataset for specialized knowledge.
+## 🚨 Please refer to the ipynb for code and pdf for explanations.
 
 
 Virtual Career Navigation Assistants (VCNAs) have the potential to revolutionize 
@@ -13,6 +13,8 @@ increase their overall satisfaction with their work lives. However, developing
 effective VCNAs poses a significant challenge due to the need for large language 
 models (LLMs) with specialized knowledge and the ability to adapt to individual 
 user needs.
+
+![image](https://github.com/peevs99/LoRA-PEFT-VCNA/assets/88054944/ec962ef3-c51a-4023-bd92-36c5329c7356)
 
 Traditional fine-tuning methods for LLMs can be time-consuming and 
 computationally expensive, making them impractical for developing VCNAs that 

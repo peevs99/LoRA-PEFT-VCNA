@@ -1,5 +1,5 @@
 # LoRA-PEFT-VCNA
- Leveraging LoRA-PEFT for Efficient Training of VCNAs with Specialized Knowledge
+ Leveraging LoRA-PEFT for LLM's Efficient Training of VCNAs with Specialized Knowledge
 
 
 ## 🚨 Please refer to the ipynb for code and pdf for explanations.
